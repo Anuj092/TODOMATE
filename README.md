@@ -1,6 +1,6 @@
 # AngularTodoApp
 
-## Angular Todo Project that works with your browser's memory using local storage, and its information is not lost when the page is refreshed.
+## Angular To-do Project that works with your browser's memory using local storage, and its information is not lost when the page is refreshed.
 
 Live Demo: [http://angulartodoapp.demoistasyonu.com](http://angulartodoapp.demoistasyonu.com)
 
